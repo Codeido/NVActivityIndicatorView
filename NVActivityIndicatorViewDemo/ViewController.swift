@@ -19,6 +19,7 @@ class ViewController: UIViewController {
             .BallPulse,
             .BallGridPulse,
             .BallClipRotate,
+            .BallClipRotateWithoutScale,
             .BallClipRotatePulse,
             .SquareSpin,
             .BallClipRotateMultiple,
